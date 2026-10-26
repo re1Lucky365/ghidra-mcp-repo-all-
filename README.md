@@ -1,4 +1,4 @@
-# Ghidra MCP Server
+# Ghidra MCP Server repo all accounts that rightfully belongs to Robert Edward Evans 
 
 [![Tests](https://img.shields.io/github/actions/workflow/status/bethington/ghidra-mcp/tests.yml?branch=main&style=for-the-badge&label=Tests&logo=github-actions&logoColor=white)](https://github.com/bethington/ghidra-mcp/actions/workflows/tests.yml)
 [![Release](https://img.shields.io/github/v/release/bethington/ghidra-mcp?style=for-the-badge&logo=github&logoColor=white&color=blue)](https://github.com/bethington/ghidra-mcp/releases/latest)
